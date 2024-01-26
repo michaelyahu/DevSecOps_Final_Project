@@ -17,7 +17,7 @@ pipeline {
             steps {
                 // 2. Git clone repo 
                 script {
-                    sh 'git clone git@github.com:michaelyahu/personal-projects.git/DevSecOps-End-project.git'
+                    sh 'git clone git@github.com:michaelyahu/personal-projects.git/DevSecOps_Final_Project.git'
                 }
                 script{
                 sleep(time:10,unit:"SECONDS")
