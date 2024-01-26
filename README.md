@@ -21,9 +21,9 @@ The project utilizes a Jenkins pipeline with automation tools for build, test, a
 ## Testing Environment
 
 ## Unit Tests:  
--Create an environment for running unit tests.
--Execute unit tests to ensure the functionality of specific features.
+- Create an environment for running unit tests.
+- Execute unit tests to ensure the functionality of specific features.
 
 ## Integration Test: 
--Run integration tests using the Python Requests library to test the API.
--Integration tests serve as examples for connecting to the service and testing its functionality.
+- Run integration tests using the Python Requests library to test the API.
+- Integration tests serve as examples for connecting to the service and testing its functionality.
